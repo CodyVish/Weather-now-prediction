@@ -31,10 +31,6 @@ npm run build
 npm run preview
 ```
 
-## Deploy (quick options)
-- CodeSandbox or StackBlitz: Import this folder or Git repo and run.
-- GitHub Pages / Netlify / Vercel: Standard Vite static site deployment.
-
 ## Notes
 - Geocoding results list top 10 matches; click one to view weather.
 - Changing units refetches current conditions for the selected place.
